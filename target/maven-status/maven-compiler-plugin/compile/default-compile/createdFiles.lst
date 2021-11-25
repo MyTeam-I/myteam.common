@@ -1,0 +1,12 @@
+ilenguage\common\application\Notification.class
+ilenguage\common\application\RequestBodyType$2.class
+ilenguage\common\api\ApiController.class
+ilenguage\common\application\RequestBodyType.class
+ilenguage\common\application\ResultType.class
+ilenguage\common\application\Result$1.class
+ilenguage\common\application\Result.class
+ilenguage\common\application\RequestBodyType$1.class
+ilenguage\common\application\Result$Success.class
+ilenguage\common\application\Result$Failure.class
+ilenguage\common\api\Envelope.class
+ilenguage\common\application\Error.class
